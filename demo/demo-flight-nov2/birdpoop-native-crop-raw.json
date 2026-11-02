@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d76-285a-76e2-888e-0c7ce41267c2",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Inspection of the shingle surface in this frame:\n\n**Marks found on the shingle surface itself: None.**\n\n* What I can see: Only a very small, very dark and blurry portion of shingles is visible in the bottom-right corner of the frame. The diagonal light band from top-right to bottom-center is roof edge / flashing, not shingle field - so excluded per your instructions. The large dark area on the left is not shingle field, it's too dark/blurry to be roof surface.\n* On that small visible shingle area, I cannot genuinely distinguish any surface mark, deposit, streak, stain, or discoloration. What looks like mottling is pixelation / compression and low-light noise, not a verifiable mark.\n* The image is nighttime / extremely under-exposed, out of focus, and low resolution, so no DAMAGE vs NOT DAMAGE classification can be made.\n\nIn short: The shingle surface as shown here is unmarked to the extent it is visible - no marks to report, do not invent any.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793643128,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1285,
+    "prompt_tokens": 1016,
+    "total_tokens": 2301,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1063
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"marked_hits": 2, "markers": ["middle course left of center - parenthesis pair", "middle course right of center - parenthesis pair"], "unmarked_fractures": ["none"], "notes": "two faint tan parenthesis pairs in middle courses; no red paint dot present; upper faint vertical ticks and bottom-edge cropped ticks not counted as complete pairs; no clear unmarked fractures visible"}

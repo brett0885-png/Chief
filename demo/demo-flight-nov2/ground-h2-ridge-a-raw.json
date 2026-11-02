@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d93-02e6-72fa-af54-5530dd121917",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "**1) DEPOSITS:**\n\n* **Where:** On the hip / ridge cap shingles, just left of center - one distinct creamy-white spot about 1-2 inches, plus 2-3 very small white specks on the cap shingles just above it.\n* **What it most likely is:** Bird droppings.\n* **Classification:** NOT DAMAGE - superficial deposit sitting on top of the granules that does not physically harm the shingle.\n\nNo other deposits visible. Apart from that spot, the asphalt shingles are clean - no algae streaks, rust stains, dirt streaks, or oxidation visible. No metal hardware - vent domes, turbines, or flashing - is visible in this photo to assess for deposits.\n\n**2) DENTS:**\n\nThis photo does not show any metal vent - no dome vent or wind turbine is in frame.\n\nTherefore there is no metal to inspect for dents, creases, dings, or bent vanes, and no dents are visible.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793645019,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1215,
+    "prompt_tokens": 2682,
+    "total_tokens": 3897,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1004
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 99
+    }
+  }
+}

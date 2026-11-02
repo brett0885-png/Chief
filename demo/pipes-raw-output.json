@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a1908f-edd4-75ca-abe6-0d5d8a73d0b0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"penetrations\": [\n    {\n      \"type\": \"dryer vent (louvered hood vent)\",\n      \"location\": \"center-right of main slope, lower-mid height above eave\",\n      \"condition\": \"appears intact, no visible damage\"\n    },\n    {\n      \"type\": \"3-in-1 pipe jack\",\n      \"location\": \"right side of main slope, low near eave to the right of dryer vent\",\n      \"condition\": \"appears intact, flashing base and rubber boot with no visible damage\"\n    }\n  ],\n  \"total_count\": 2,\n  \"count_by_type\": {\n    \"dryer vent (louvered hood vent)\": 1,\n    \"3-in-1 pipe jack\": 1\n  }\n}\nThis visible roof slope has two penetrations, both low on the right side near the eave and appearing in good condition: one louvered hood dryer vent and one plumbing vent with 3-in-1 pipe jack flashing.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793426714,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2118,
+    "prompt_tokens": 1543,
+    "total_tokens": 3661,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1900
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

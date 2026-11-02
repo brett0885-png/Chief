@@ -1,0 +1,1 @@
+{"marked_hits": 1, "markers": ["center shingle at vertical seam - yellow/tan parenthesis pair ( )"], "unmarked_fractures": ["none"], "notes": "Single parenthesis pair straddling center vertical seam; no red paint dot observed; no other chalk circles, X, letters or numbers; no clear unmarked fractures visible"}

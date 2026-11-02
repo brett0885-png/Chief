@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d76-a11b-705c-bb9d-8b71ecb33e20",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Visible roof is the gray shingled slope on the right 2/3 of the frame, with a hip/ridge running diagonally lower-left to upper-right. Image is very dark and low-resolution.\n\n**Mark 1 - the only distinct surface spot visible:**\n\n1. **Where it is in the frame:** Upper third, just to the right of the hip/ridge line, on one shingle tab. Small whitish irregular speck.\n\n2. **What it most likely is:** Light-colored surface deposit / light reflection / image noise. Could be loose debris or bird dropping. Detail is too limited to be specific.\n\n3. **Classification: NOT DAMAGE** - Reason: No tear, crack, missing piece, or granule-loss impact pattern visible, appearance is superficial only.\n\nNo other streak, stain, algae, moss, or discoloration is genuinely visible on the shingle surface itself.\n\nNormal light/dark variation of architectural shingle tabs is not counted as a mark, the dark area on the left is background off-roof, not counted, and no roof hardware is counted.\n\nApart from the one speck above, the shingle surface is otherwise clean and unmarked within what this dark image shows.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793643159,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2071,
+    "prompt_tokens": 1240,
+    "total_tokens": 3311,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1816
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

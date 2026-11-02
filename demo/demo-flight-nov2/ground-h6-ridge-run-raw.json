@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d93-98cf-769b-bf51-3bbb19f076a0",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "**Close-range roof inspection - ridge / field shingles**\n\n**1) DEPOSITS:**\n\nNo surface deposit, streak, stain, or discoloration is genuinely visible.\n\n* **Field shingles - right slope and left slope:** Clean gray architectural asphalt. No black algae streaks, no moss / lichen, no bird droppings, no rust, no dirt runs, no sealant smears seen.\n* **Ridge cap shingles - center:** Clean. The alternating light-gray / dark-gray pattern is factory color-blend, not a stain.\n  * The slight warm tone on one mid-ridge cap is lighting / color variation, not a distinct deposit - **NOT DAMAGE**.\n* **Metal hardware:** No vent dome, turbine, or flashing is visible close-up in this frame to assess for deposits. The distant eave edge in the far background is too far for detail but shows no obvious staining.\n\nIn short: all visible shingle surfaces are clean and undamaged from a deposits standpoint.\n\n**2) DENTS:**\n\nNo metal vent - dome or turbine - is shown in this photo.\n\nTherefore there are no vent dents, creases, dings, or bent vanes to list. The metal shows no dents because there is no vent metal present to inspect.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793645058,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1221,
+    "prompt_tokens": 2682,
+    "total_tokens": 3903,
+    "completion_tokens_details": {
+      "reasoning_tokens": 952
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

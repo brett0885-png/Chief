@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d70-0a85-7537-a856-7fb4711713f7",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The shingle surface in this frame is clean and unmarked.\n\nI inspected the entire visible shingle field - main lower slope, upper slopes, and right hip section:\n\n* No streaks, stains, algae, moss, lichen, leaf/debris deposits, or discoloration visible ON the shingles themselves.\n* No missing-granule patches, bruising, cracking, or other surfacing differences visible.\n* The only variations are normal dimensional-shingle color pattern, roof hardware - 2 turbines, 1 skylight, 3 pipe jacks, ridge/valley caps, flashing/gutters - and shadows/light fall-off, which per your instructions are not counted.\n\nTo the resolution and lighting of this drone photo, there are no genuine surface marks to list.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793642728,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1067,
+    "prompt_tokens": 2843,
+    "total_tokens": 3910,
+    "completion_tokens_details": {
+      "reasoning_tokens": 902
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

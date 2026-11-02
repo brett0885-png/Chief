@@ -1,0 +1,1 @@
+{"marked_hits": 1, "markers": ["center shingle joint - vertical chalk parenthesis pair"], "unmarked_fractures": ["none"], "notes": "Light tan vertical chalk lines left and right of center butt joint form one parenthesis pair; no red paint dot observed; no clear unmarked fracture visible outside marks"}

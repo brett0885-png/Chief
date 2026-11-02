@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d2b-b559-741b-9cab-bd0b754b0925",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"penetrations\": [\n    {\"type\": \"other - small circular penetration, specific type indeterminate\", \"location\": \"central south-facing slope, left of center near upper third\", \"condition\": \"no condition discernible due to aerial distance and resolution\"},\n    {\"type\": \"other - small circular penetration, specific type indeterminate\", \"location\": \"central south-facing slope, right of center near upper third\", \"condition\": \"no condition discernible due to aerial distance and resolution\"},\n    {\"type\": \"other - small circular penetration, specific type indeterminate\", \"location\": \"right roof mass, main upper slope near center ridge\", \"condition\": \"no condition discernible due to aerial distance and resolution\"},\n    {\"type\": \"other - small circular penetration, specific type indeterminate\", \"location\": \"right roof mass, main upper slope near ridge east of center\", \"condition\": \"no condition discernible due to aerial distance and resolution\"}\n  ],\n  \"total_count\": 4,\n  \"count_by_type\": {\"other - small circular penetration, specific type indeterminate\": 4}\n}\nAerial top-down view shows four small dark circular features on the main roof slopes consistent with penetrations, but at this distance and resolution no flashing bases, rubber boots, hoods, louvers, chimneys, or skylights are clearly visible, so specific types cannot be confidently assigned and no condition issues are discernible.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793638249,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2906,
+    "prompt_tokens": 1859,
+    "total_tokens": 4765,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2610
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

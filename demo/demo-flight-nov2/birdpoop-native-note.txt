@@ -1,0 +1,1 @@
+Provenance: frame extracted at 2fps (frame 9, ~4.0-4.5s) from segment 2026_11_02_11_37_37_147033_161166_8153346109.MOV (the low close pass, second flight, Nov 2). Same frame Brett saved on his phone at 11:50 AM and supplied as test photos. Crop = valley-line region, native pixels, 3x upscale, no other processing.

@@ -1,0 +1,1 @@
+{"marked_hits": 0, "markers": [], "unmarked_fractures": ["none"], "notes": "No chalk parenthesis pairs, circles, X marks, chalk letters/numbers, or red paint dot visible; granule surface shows no clear unmarked hail fracture."}

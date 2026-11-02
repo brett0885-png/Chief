@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d2d-24d6-75c4-9020-bec6c9df995a",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"penetrations\": [\n    {\n      \"type\": \"turbine vent\",\n      \"location\": \"lower (south) hip, upper slope just below ridge, left side\",\n      \"count_contribution\": 1,\n      \"condition\": \"appears intact, no visible damage; louver detail limited by aerial distance\"\n    },\n    {\n      \"type\": \"turbine vent\",\n      \"location\": \"lower (south) hip, upper slope just below ridge, left-center\",\n      \"count_contribution\": 1,\n      \"condition\": \"appears intact, no visible damage; louver detail limited by aerial distance\"\n    },\n    {\n      \"type\": \"skylight\",\n      \"location\": \"center of lower (south) hip slope, mid-height\",\n      \"count_contribution\": 1,\n      \"condition\": \"square glass intact with reflection, frame visible, no visible damage\"\n    },\n    {\n      \"type\": \"plumbing vent pipe with pipe jack flashing\",\n      \"location\": \"center-left of lower (south) hip slope, mid-height, just left of skylight\",\n      \"count_contribution\": 1,\n      \"condition\": \"small stack visible, boot/sealant condition not discernible from altitude, no obvious damage\"\n    }\n  ],\n  \"total_count\": 4,\n  \"count_by_type\": {\n    \"turbine vent\": 2,\n    \"skylight\": 1,\n    \"plumbing vent pipe with pipe jack flashing\": 1\n  }\n}\nAerial view shows four clearly identifiable penetrations all on the lower hip: two round turbine vents near the upper ridge, one square skylight mid-slope, and one small plumbing vent with pipe-jack flashing left of the skylight; other tiny dots on the upper slope and near the lower eave were too small/faint to confidently classify and were excluded per standing rule.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793638343,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4230,
+    "prompt_tokens": 1859,
+    "total_tokens": 6089,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3829
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

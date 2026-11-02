@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d92-0197-7532-b46e-702cdbe35b3f",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "**1) DEPOSITS:**\n\n* **Metal vent dome - top surface:**\n  * **Where:** Across the center, upper-right, and upper-left of the dome, with thin drip-runs toward the lower edge.\n  * **What:** Whitish, translucent, marbled film / streaks with water-run marks - most likely oxidation / chalking of the painted/galvanized finish and light mineral/water spotting.\n  * **Classification: NOT DAMAGE** - surface-only cosmetic film/staining, no corrosion through metal, puncture, or loss of function.\n\n* **Asphalt shingles - background:**\n  * No deposit, streak, stain, or discoloration visible. Normal gray granule color variation only. Clean and undamaged in view.\n\n* No bird droppings, algae, dark rust, or sealant smears visible on any surface in the photo.\n\n**2) DENTS - metal vent dome:**\n\nNo dents, creases, dings, or bent vanes genuinely visible.\n\nThe dome face is smoothly curved, the rim and the two exposed fasteners are intact. No hail-type impact mark is present.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793644953,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1966,
+    "prompt_tokens": 2682,
+    "total_tokens": 4648,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1724
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

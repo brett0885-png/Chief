@@ -1,0 +1,1 @@
+{"marked_hits": 1, "markers": ["center shingle - parenthesis pair (left and right chalk arcs)"], "unmarked_fractures": [], "notes": "One complete parenthesis pair visible enclosing central dark hit; no red paint dot; no other clear unmarked fractures."}

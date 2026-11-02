@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d93-2802-7736-a1ae-72aee723039e",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "**Photo examined:** Close-range of gray architectural asphalt shingles at a hip/ridge. No metal vent, turbine, dome, or flashing is visible in this frame.\n\n### 1) DEPOSITS\n\n**Shingle field is otherwise clean:** No black algae streaking, no rust, no oxidation, no dirt wash, no sealant smear seen on the field shingles.\n\nVisible deposits:\n\n* **Location:** On the hip/ridge cap, about middle-upper of photo, left of center - pale tan-white irregular spot about 1-2 inches on top of one ridge cap shingle.\n  **What it most likely is:** Bird droppings\n  **Classification:** NOT DAMAGE - surface material sitting on top of the granules, does not degrade shingle function and will weather off.\n\n* **Location:** 2-3 very small white specks on the field shingles just to the right/east of the ridge line, upper-middle of photo.\n  **What it most likely is:** Bird droppings splatter / light airborne debris\n  **Classification:** NOT DAMAGE - superficial specks on granule surface only, no granule loss or staining of the mat.\n\nNo other streak, stain, or discoloration is genuinely visible. The light/dark variation in the shingles is normal factory color blending for architectural shingles.\n\n### 2) DENTS\n\n**No metal vent to inspect.** This photo shows no dome vent, wind turbine, or other metal hardware \u2014 only asphalt shingles.\n\nTherefore there are no dents, creases, dings, or bent vanes to report, and the metal is not dented because no metal is present.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793645029,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1353,
+    "prompt_tokens": 2682,
+    "total_tokens": 4035,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1003
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    }
+  }
+}

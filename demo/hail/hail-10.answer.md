@@ -1,0 +1,1 @@
+{"marked_hits": 1, "markers": ["center shingle - chalk circle"], "unmarked_fractures": ["none"], "notes": "One central tan chalk circle around granule loss; faint partial chalk line at far left edge not counted as complete pair/circle/X; no red paint dot present."}

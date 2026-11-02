@@ -1,0 +1,29 @@
+{
+  "id": "chatcmpl-01a19d2d-5424-706d-a178-db37f52c50d6",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\n  \"penetrations\": [\n    {\n      \"type\": \"plumbing vent pipe with pipe jack flashing\",\n      \"location\": \"upper-left of main slope, left of skylight\",\n      \"condition\": \"flashing base and boot appear intact, no visible damage\"\n    },\n    {\n      \"type\": \"skylight\",\n      \"location\": \"left-center of main slope, mid-upper\",\n      \"condition\": \"dome appears intact; lower curb flashing shows exposed fasteners\"\n    },\n    {\n      \"type\": \"plumbing vent pipe with pipe jack flashing\",\n      \"location\": \"center of main slope, lower-mid\",\n      \"condition\": \"shorter pipe, flashing base and boot appear intact, no visible damage\"\n    },\n    {\n      \"type\": \"plumbing vent pipe with pipe jack flashing\",\n      \"location\": \"center-right of main slope, lower-mid near hip ridge\",\n      \"condition\": \"taller pipe, flashing base and boot appear intact, no visible damage\"\n    }\n  ],\n  \"total_count\": 4,\n  \"count_by_type\": {\n    \"plumbing vent pipe with pipe jack flashing\": 3,\n    \"skylight\": 1\n  }\n}\n\nThe roof shows four clear penetrations on the main shingle slope: one skylight left-center and three plumbing vent pipes with pipe jack flashing \u2014 one upper-left of the skylight and two grouped lower-center near the hip \u2014 with no other vents, caps, chimneys, or fans clearly visible.",
+        "refusal": null,
+        "role": "assistant"
+      },
+      "logprobs": null
+    }
+  ],
+  "created": 1793638355,
+  "model": "muse-spark-1.3",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1774,
+    "prompt_tokens": 1859,
+    "total_tokens": 3633,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1451
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 355
+    }
+  }
+}

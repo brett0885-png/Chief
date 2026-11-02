@@ -1,0 +1,1 @@
+{"marked_hits": 1, "markers": ["mid-center parenthesis pair ( ) around shingle joint"], "unmarked_fractures": ["none"], "notes": "Upper chalk is slope note '4-12', not a hit; no red paint dot present; no clear unmarked fractures visible."}
