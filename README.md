@@ -4,6 +4,8 @@
 
 *Meta Global AI Developer Hackathon (Cerebral Valley) — Indie Dev Track, "Build for Your World." Built by Brett Roberts, owner of MOC Roofing.*
 
+**Demo post on X — Most Viral Project Bonus entry:** https://x.com/betimbrett/status/2118571579227640013
+
 ## The problem
 
 Skilled-trades owners don't lose money on craftsmanship — they lose it on follow-up and estimating. And the tool has to work where the work is: on a roof, hands and eyes busy, where a phone screen is useless. Estimates wait until the owner is back at a desk; follow-ups slip; the paper scope and the finished roof never get checked against each other.
